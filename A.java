@@ -1,4 +1,4 @@
-package quizes.q1.ana_kurua_2.javarules;
+package quizes.q1.ana_kurua_2.iliaunirules;
 
 public class A{
     public static void main(String[] args) {
